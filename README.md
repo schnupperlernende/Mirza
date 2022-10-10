@@ -44,3 +44,4 @@ server {
                 try_files $uri $uri/ =404;
         }
 }
+Im nächsten Schritt schaltete ich mehrere Server Blöcke auf mit den Befehlen:
